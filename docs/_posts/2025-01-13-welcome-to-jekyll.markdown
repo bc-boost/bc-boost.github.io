@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "🚀 BC Boost"
 date:   2025-01-13 14:22:11 +0100
 categories: jekyll update
 ---
